@@ -134,13 +134,17 @@ customer-shopping-insights-dashboard/
 ├── Raw Data/
 │   └── customer_shopping_behavior.csv
 ├── notebooks/
-│   └── data_cleaning_and_eda.ipynb
+│   └── Customer_Shopping_Insights_Dashboard.ipynb
 ├── sql/
-│   └── business_analysis_queries.sql
+│   └── Customer_Shopping_Insights_Dashboard.sql
 ├── powerbi/
-│   └── customer_shopping_insights.pbix
+│   └── Customer_Shopping_Insights_Dashboard.pbix
 ├── assets/
-│   └── dashboard.png
+│   └── Customer_Shopping_Insights_Dashboard.png
+├── Report/
+|   └── Business Problem  Document.pdf
+|   └── Customer_Shopping_Insights_Dashboard_Report.pdf
+|   └── Customer-Shopping-Insights-Dashboard.pptx
 └── README.md
 ```
 
@@ -150,7 +154,7 @@ customer-shopping-insights-dashboard/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/customer-shopping-insights-dashboard.git
+   git clone https://github.com/balmahendran/customer-shopping-insights-dashboard.git
    ```
 2. Install Python dependencies
    ```bash
