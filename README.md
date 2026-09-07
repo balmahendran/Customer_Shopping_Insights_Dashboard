@@ -107,7 +107,7 @@ GROUP BY Segment;
 
 An interactive dashboard consolidates all findings with slicers for **Subscription Status**, **Gender**, **Category**, and **Shipping Type**.
 
-![Customer Shopping Insights Dashboard](https://raw.githubusercontent.com/balmahendran/Customer_Shopping_Insights_Dashboard/main/assets/dashboard.png)
+![Customer Shopping Insights Dashboard](https://raw.githubusercontent.com/balmahendran/Customer_Shopping_Insights_Dashboard/main/assets/Customer_Shopping_Insights_Dashboard.jpg)
 
 **Highlights:**
 - 3.9K total customers · AED 233.08K total revenue · 3.75 average review rating
