@@ -161,8 +161,8 @@ customer-shopping-insights-dashboard/
    pip install pandas sqlalchemy pyodbc
    ```
 3. Run the cleaning notebook to prepare the dataset and load it into SQL Server
-4. Execute the queries in `sql/business_analysis_queries.sql`
-5. Open `powerbi/customer_shopping_insights.pbix` in Power BI Desktop to explore the dashboard
+4. Execute the queries in `sql/Customer_Shopping_Insights_Dashboard.sql`
+5. Open `powerbi/Customer_Shopping_Insights_Dashboard.pbix` in Power BI Desktop to explore the dashboard
 
 ---
 
